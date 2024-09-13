@@ -22,3 +22,6 @@ while playing:
     elif user_input == 3:
         print("la multiplicación es...")
         print(num1 * num2)
+    elif user_input == 4:
+       print("la division es...")
+       print(num1/num2)
